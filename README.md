@@ -5,4 +5,3 @@ Find me [here](https://scholar.google.com/citations?hl=en&view_op=list_works&aut
 I wrote and maintain the following repositories:
 
 - [chic](https://github.com/tcnicholas/chic) - a python package for coarse-graining hybrid-inorganic framework
-- [dftd_labeler](https://github.com/tcnicholas/dftd_labeler) - a useful tool for relabelling DFT datasets with dispersion corrections

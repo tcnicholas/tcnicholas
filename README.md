@@ -4,4 +4,4 @@ Find me [here](https://scholar.google.com/citations?hl=en&view_op=list_works&aut
 
 I wrote and maintain the following repositories:
 
-- [chic](https://github.com/tcnicholas/chic) - a python package for coarse-graining hybrid-inorganic framework
+- [chic](https://tcnicholas.github.io/chic/) - a Python package for coarse-graining hybrid-inorganic framework
